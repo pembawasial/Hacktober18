@@ -6,7 +6,6 @@
 #version control
 
 #together we strong
-#sembarang
 #1
 #2
 #3
